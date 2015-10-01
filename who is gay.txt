@@ -1,1 +1,7 @@
-we are
+Things we need for Beta
+-Level select screen
+-All levels created (not necessarily finished)
+-No tutorial (?)
+
+
+swag out
