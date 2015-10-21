@@ -1,0 +1,67 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660 (ID=0x1185)
+    Vendor:   NVIDIA
+    VRAM:     1480 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\llani100\Desktop\Petals4\AlphaPetals2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\llani100\Desktop\Petals4\AlphaPetals2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\llani100\Desktop\Petals4\AlphaPetals2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\llani100\Desktop\Petals4\AlphaPetals2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\llani100\Desktop\Petals4\AlphaPetals2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\llani100\Desktop\Petals4\AlphaPetals2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\llani100\Desktop\Petals4\AlphaPetals2_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\llani100\Desktop\Petals4\AlphaPetals2_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\llani100\Desktop\Petals4\AlphaPetals2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\llani100\Desktop\Petals4\AlphaPetals2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\llani100\Desktop\Petals4\AlphaPetals2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\llani100\Desktop\Petals4\AlphaPetals2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\llani100\Desktop\Petals4\AlphaPetals2_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.044 seconds
+desktop: 1280x1024 60Hz; virtual: 2560x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\llani100\Desktop\Petals4\AlphaPetals2_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\llani100\Desktop\Petals4\AlphaPetals2_Data\Managed\Boo.Lang.dll (this message is harmless)
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1784 -> priority: 1 
+  Thread -> id: 2684 -> priority: 1 
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
